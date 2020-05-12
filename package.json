@@ -1,16 +1,16 @@
 {
-  "name": "@bnb/card",
-  "version": "1.6.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "valorin",
+  "version": "1.0.0",
+  "description": "A personal card for Stephen Rees-Carter (@valorin)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "valorin": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/valorin/card.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://stephenreescarter.net",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -26,7 +26,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Stephen Rees-Carter <stephen@rees-carter.net> (https://stephenreescarter.net)",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -38,7 +38,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
+    "url": "https://github.com/valorin/card/issues"
   },
   "dependencies": {},
   "publishConfig": {
