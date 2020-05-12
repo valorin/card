@@ -40,8 +40,5 @@
   "bugs": {
     "url": "https://github.com/valorin/card/issues"
   },
-  "dependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
-  }
+  "dependencies": {}
 }
